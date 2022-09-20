@@ -1,2 +1,2 @@
-# bootcamp_ciencia_de_dados-DIO
-Projetos feitos durante o Bootcamp de Ciência de Dados da DIO
+# Ciência de Dados - DIO
+Projetos feitos durante o Bootcamp Geração Tech Unimed-BH-Ciência de Dados da Digital Innovation One (DIO)
